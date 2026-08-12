@@ -1,11 +1,10 @@
 #include <iostream>
 #include <vector>
-
 #include "Layer.h"
 #include "Activations.h"
 #include "Loss.h"
 #include "MNIST.h"
-
+//why not use namespace std; idk tbh, probably look at the constructor for the neurons
 
 int main() {
 
