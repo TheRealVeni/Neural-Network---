@@ -1,6 +1,8 @@
 #ifndef LAYER_H
 #define LAYER_H
 
+//what defines a layer? how do we propagate through it?
+
 #include <vector>
 #include "Neuron.h"
 
