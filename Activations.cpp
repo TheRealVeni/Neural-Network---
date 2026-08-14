@@ -40,3 +40,5 @@ std::vector<double> softmax(
 
     return probabilities;
 }
+
+//dont forget the softmax function in neuron
